@@ -1,0 +1,18 @@
+--- IMPETUS.setting/Assets/0_Scenes/SceneName/STAGE_REST.unity
++++ IMPETUS.setting/Assets/0_Scenes/SceneName/STAGE_REST.unity
+@@ -161,6 +161,7 @@
+   MapScrollRect: {fileID: 358216988}
+   DeckScrollRect: {fileID: 0}
+   GraveScrollRect: {fileID: 0}
++  isPopupOpen: 0
+   cardPrefab: {fileID: 59629037052543798, guid: e3703501269dbc04b8588676ee49babb,
+     type: 3}
+   sprites:
+@@ -521,6 +522,7 @@
+   cardCategory: 
+   isDrag: 0
+   drawDelay: 0.7
++  costReduction: 0
+   discardUI: {fileID: 0}
+ --- !u!4 &217928993
+ Transform:
